@@ -1,4 +1,4 @@
-# **Charger rapidement des images depuis un dossier avec PyTorch** - [lire l'article](https://inside-machinelearning.com/charger-rapidement-des-images-depuis-un-dossier-avec-pytorch/)
+# **Charger rapidement des images depuis un dossier avec PyTorch** - [lire l'article](https://inside-machinelearning.com/charger-rapidement-des-images-depuis-un-dossier-avec-pytorch/) ([read the post in English](https://inside-machinelearning.com/en/easy-pytorch-to-load-image-and-volume-from-folder/))
 
 Dans cet article, on va voir comment **rapidement charger des images** depuis un dossier avec **la librairie** *PyTorch*.
 

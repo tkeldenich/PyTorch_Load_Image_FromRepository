@@ -275,7 +275,7 @@ plt.imshow(batch[0].permute(1, 2, 0))
 
 
     
-![png](Readme_files/Readme_32_1.png)
+![png](Readme_files/Readme_32_12.png)
     
 
 

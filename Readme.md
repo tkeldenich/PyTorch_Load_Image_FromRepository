@@ -203,7 +203,7 @@ filenames = [name for name in os.listdir(data_dir)]
 
 #### **Stocker les images**
 
-Une fois qu'on a **le nom de chaque images**, il faut créer un tenseur vide.
+Une fois qu'on a **le nom de chaque image**, il faut créer un tenseur vide.
 
 En fait **ce tenseur vide** va contenir toutes nos images. On l'appelle **batch** qui veut dire lot, c'est **un lot d'images**.
 
